@@ -1,11 +1,11 @@
 [
-{"name":"mSalmon","desc":"Yummy market salmon entree","pairing":"drink this fuckin sauv blanc"},
-{"name":"mSteak","desc":"Dry aged steak from the counter","pairing":"Big fuckin cab"},
-{"name":"mSushi","desc":"Japanese treat, made fresh in the market","pairing":"Sake it to me"},
-{"name":"mSalad","desc":"R U market rabbit?","pairing":"water, pansy"},
+{"name":"mSalmon","desc":"Yummy market salmon entree","pairing":"drink this sauv blanc"},
+{"name":"mSteak","desc":"Dry aged steak from the counter","pairing":"Big cab"},
+{"name":"mSushi","desc":"Japanese treat, made fresh in the market","pairing":"Sake"},
+{"name":"mSalad","desc":"R U market rabbit?","pairing":"water"},
 
-{"name":"rGrouper","desc":"Florida black grouper, for real","pairing":"drink this fuckin chard"},
-{"name":"rSteak","desc":"Dry aged steak","pairing":"Big fuckin cab"},
-{"name":"rMushrooms","desc":"Let's get fucked up","pairing":"French Malbec"},
+{"name":"rGrouper","desc":"Florida black grouper, for real","pairing":"drink this chard"},
+{"name":"rSteak","desc":"Dry aged steak","pairing":"Big cab"},
+{"name":"rMushrooms","desc":"Mushrooms","pairing":"French Malbec"},
 {"name":"rPizza","desc":"R U cheapskate?","pairing":"beerz"}
 ]
